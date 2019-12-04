@@ -18,7 +18,8 @@
     "jsx-a11y/label-has-associated-control": "off",
     "react/prop-types": 0,
     "react/jsx-props-no-spreading": 0,
-    "react/jsx-filename-extension": 0
+    "react/jsx-filename-extension": 0,
+    "no-console": 0
   },
   "env": {
     "browser": true,
